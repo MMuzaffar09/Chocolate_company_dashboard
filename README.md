@@ -28,3 +28,16 @@ Custom visuals and report navigation for executive storytelling
 
 Purpose
 This project was created to demonstrate business intelligence, data modeling, and data storytelling skills using Power BI. It is intended for portfolio presentation and showcases the ability to translate raw business data into meaningful executive insights.
+
+Project Files  
+The Power BI report file used for this analysis is included in this repository.
+
+Power BI Report  
+[BI PROJECT 11.pbix](BI%20PROJECT%2011.pbix)
+
+Dashboard Screenshots  
+![Dashboard Home](Chocolate_Company_1.png)  
+![Executive Overview](Chocolate_Company_2.png)  
+![Sales Overview](Chocolate_Company_3.png)  
+![Profit Overview](Chocolate_Company_4.png)
+
